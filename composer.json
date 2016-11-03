@@ -1,0 +1,14 @@
+{
+    "name": "antic/tool",
+    "description": "tool",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huang",
+            "email": "1712715552@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
